@@ -8,26 +8,26 @@
     <material name="gray" rgba="0.753 0.753 0.753 1"/>
     <material name="black" rgba="0.149 0.149 0.149 1"/>
 
-    <mesh name="base" content_type="model/stl" file="base.stl"/>
-    <mesh name="base_vhacd" content_type="model/obj" file="base_vhacd.obj"/>
-    <mesh name="link1" content_type="model/stl" file="link1.stl"/>
-    <mesh name="link1_vhacd" content_type="model/obj" file="link1_vhacd.obj"/>
-    <mesh name="link2" content_type="model/stl" file="link2.stl"/>
-    <mesh name="link2_vhacd2" content_type="model/obj" file="link2_vhacd2.obj"/>
-    <mesh name="link3" content_type="model/stl" file="link3.stl"/>
-    <mesh name="link3_vhacd" content_type="model/obj" file="link3_vhacd.obj"/>
-    <mesh name="link4" content_type="model/stl" file="link4.stl"/>
-    <mesh name="link4_vhacd" content_type="model/obj" file="link4_vhacd.obj"/>
-    <mesh name="link5" content_type="model/stl" file="link5.stl"/>
-    <mesh name="link5_vhacd" content_type="model/obj" file="link5_vhacd.obj"/>
-    <mesh name="link6" content_type="model/stl" file="link6.stl"/>
-    <mesh name="base_link" content_type="model/stl" file="base_link.STL"/>
-    <mesh name="left_outer_knuckle" content_type="model/stl" file="left_outer_knuckle.STL"/>
-    <mesh name="left_finger" content_type="model/stl" file="left_finger.STL"/>
-    <mesh name="left_inner_knuckle" content_type="model/stl" file="left_inner_knuckle.STL"/>
-    <mesh name="right_outer_knuckle" content_type="model/stl" file="right_outer_knuckle.STL"/>
-    <mesh name="right_finger" content_type="model/stl" file="right_finger.STL"/>
-    <mesh name="right_inner_knuckle" content_type="model/stl" file="right_inner_knuckle.STL"/>
+    <mesh name="base" file="base.stl"/>
+    <mesh name="base_vhacd" file="base_vhacd.obj"/>
+    <mesh name="link1" file="link1.stl"/>
+    <mesh name="link1_vhacd" file="link1_vhacd.obj"/>
+    <mesh name="link2" file="link2.stl"/>
+    <mesh name="link2_vhacd2" file="link2_vhacd2.obj"/>
+    <mesh name="link3" file="link3.stl"/>
+    <mesh name="link3_vhacd" file="link3_vhacd.obj"/>
+    <mesh name="link4" file="link4.stl"/>
+    <mesh name="link4_vhacd" file="link4_vhacd.obj"/>
+    <mesh name="link5" file="link5.stl"/>
+    <mesh name="link5_vhacd" file="link5_vhacd.obj"/>
+    <mesh name="link6" file="link6.stl"/>
+    <mesh name="base_link" file="base_link.STL"/>
+    <mesh name="left_outer_knuckle" file="left_outer_knuckle.STL"/>
+    <mesh name="left_finger" file="left_finger.STL"/>
+    <mesh name="left_inner_knuckle" file="left_inner_knuckle.STL"/>
+    <mesh name="right_outer_knuckle" file="right_outer_knuckle.STL"/>
+    <mesh name="right_finger" file="right_finger.STL"/>
+    <mesh name="right_inner_knuckle" file="right_inner_knuckle.STL"/>
   </asset>
 
   <default>
